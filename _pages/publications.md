@@ -4,13 +4,15 @@ title: Publications
 classes: wide
 ---
 
->**Icon Legend** <br/>
+>**Icon Legend**
+>
 > <i class="fas fa-database"></i> Data openly accessible (click the <i class="ai ai-osf"></i> icon to acces the repository) <br/>
 > <i class="fas fa-file-alt"></i> Author post-print version openly accessible for papers not in open access (click the icon to start the download). <br/>
 > <i class="fas fa-cog"></i> Material openly accessible (click the <i class="ai ai-osf"></i> icon to access the repository). <br/>
 > <i class="fas fa-file-code"></i> Statistical output files and/or code for processing the data are openly accessible (click the <i class="ai ai-osf"></i> icon to access the repository).
 >
-> **Contribution** <br/>
+> **Contribution**
+>
 > For the works I am not listed as the first author, my contribution is detailed following the [CRediT Taxonomy](https://casrai.org/credit/)
 
 ## Peer-reviewed manuscripts
