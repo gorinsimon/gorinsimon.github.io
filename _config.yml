@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Simon Gorin"
-  avatar           : "/assets/images/Gorin_bw.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Gorin_bw.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Postdoctoral Researcher in Psychological Science"
   location         : "University of Geneva, Switzerland"
   email            :
