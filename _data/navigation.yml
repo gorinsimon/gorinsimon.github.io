@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "About"
-    url: /_pages/about.md
+    url: /_pages/about
   - title: "Publications"
-    url: /_pages/publications.md
+    url: /_pages/publications
   - title: "Presentations"
-    url: /_pages/presentations.md
+    url: /_pages/presentations
   - title: "Collaborators"
-    url: /_pages/collaborators.md
+    url: /_pages/collaborators
