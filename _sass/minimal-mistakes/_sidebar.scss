@@ -14,7 +14,6 @@
     z-index: 10;
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
-    color: $side-text-color;
   }
 
   @include breakpoint($large) {
@@ -53,6 +52,7 @@
   h6 {
     margin-bottom: 0;
     font-family: $raleway;
+    color: $side-text-color;
   }
 
   p,
@@ -60,6 +60,7 @@
     font-family: $raleway;
     font-size: $type-size-6;
     line-height: 1.5;
+    color: $side-text-color;
   }
 
   img {
