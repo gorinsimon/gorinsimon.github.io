@@ -24,7 +24,7 @@ classes: wide
 + **Gorin, S.**, Kowialiewski, B., & Majerus, S. (2016). Domain-generality of timing based serial order processes in short-term memory: New insights from musical and verbal domains. *PLOS ONE*, *11*(12), e0168699. doi: [10.1371/journal.pone.0168699](https://doi.org/10.1371/journal.pone.0168699) <i class="ai ai-open-access"></i> <i class="fas fa-database"></i> \[*Data availale via publisher's website*\]
 
 ### Pre-registered studies
-+ **Gorin, S.**, (2019). The influence of rhythm on short-term memory for serial order. *Quarterly Journal of Experimental Psychology*. Stage 1 Registered Report, date of in-principle acceptance: 22/04/2019. [https://osf.io/s3tvh](https://osf.io/s3tvh)
++ **Gorin, S.**, (2019). The influence of rhythm on short-term memory for serial order. *Quarterly Journal of Experimental Psychology*. Stage 1 Registered Report, date of in-principle acceptance: 22/04/2019. <i class="fas fa-cog"></i> [https://osf.io/s3tvh](https://osf.io/s3tvh)
 
 ### Submitted
 + Barrouillet, P., **Gorin, S.**, & Camos V. (Submitted). Simple spans underestimate verbal working memory capacity. \[*Contribution: formal analysis, investigation, methodology, project administration, software, validation, visualization, writing (original draft)*\]
