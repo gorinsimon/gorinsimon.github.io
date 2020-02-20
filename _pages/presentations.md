@@ -3,7 +3,8 @@ layout: single
 title: Presentations
 classes: wide
 ---
-> <i class="fas fa-file-alt"></i> For references followed by this icon, the presentation is openly accessible. However, please note that the data described in the presentations relate to research that was, most of the time, still ongoing at that time of the presentation. Presentations are accessible to support the dissemination of ongoing scholarly work, but the conclusion they present may differ from those reported in the final publication.
+> Slides are openly accessible for references followed by this icon <i class="fas fa-file-alt"></i>. <br/>
+> However, please note that the data described in the presentations relate to research that was, most of the time, still ongoing at that time of the presentation. Presentations are accessible to support the dissemination of ongoing scholarly work, but the conclusion they present may differ from those reported in the final publication.
 
 ## Invited presentations
 + **Gorin, S.** (2019, December). *Is serial order processing in working memory domain-general? A comparison between musical and verbal
