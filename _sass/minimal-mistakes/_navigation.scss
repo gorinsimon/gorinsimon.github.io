@@ -323,7 +323,6 @@
       -ms-flex-wrap: wrap;
       flex-wrap: wrap;
       overflow: visible;
-      color: #fff;
     }
   }
 }
@@ -364,7 +363,7 @@
         width: 0.75em;
         height: 0.125em;
         line-height: 1;
-        background-color: $gray;
+        background-color: $masthead-background-color; //$gray;
         -webkit-transition: 0.2s ease-out;
         transition: 0.2s ease-out;
       }
