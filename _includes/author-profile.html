@@ -42,9 +42,15 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
-      {% if author.location %}
+      {% if author.location1 %}
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location1 }}</span>
+        </li>
+      {% endif %}
+	  
+	  {% if author.location2 %}
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i style="color:#f3f6f6" class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location2 }}</span>
         </li>
       {% endif %}
 
