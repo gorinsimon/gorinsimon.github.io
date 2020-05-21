@@ -12,7 +12,7 @@ domains*. Psycholinguistics lab seminar, University of Geneva, Geneva, Switzerla
 + **Gorin, S.** (2019, July). *On the general laws of serial order in working memory: Ambizione project presentation*. Invited presentation at the Distance Learning University, Brig, Switzerland.
 
 ## Oral presentations
-+ Greenspon, E., & **Gorin, S.** (2020, March). *The role of subvocalization in pitch short-term memory*. Oral presentation at the Annual Meeting of the Eastern Psychological Association, 12-14 March 2020, Boston, MA, USA.
++ Greenspon, E., & **Gorin, S.** (2020, June). *The role of subvocalization in pitch short-term memory*. Oral presentation at the Annual Meeting of the Eastern Psychological Association, 17-18 June 2020, Boston, MA, USA.
 + **Gorin, S.** (2020, Frebruary). *Sequence learning in musical short-term memory: Exploration of the Hebb repetition effect*. Oral presentation at the 3<sup>rd</sup> Swiss Working Memory Meeting, 7 February 2020, Fribourg, Switzerland. [<i class="fas fa-file-alt"></i>](https://osf.io/k6q9g)
 + Barrouillet, P., **Gorin, S.**, & Camos, V. (2019, November). *On the dual structure of verbal working memory*. Oral presentation at the 60<sup>th</sup> Annual Meeting of the Psychonomic Society, 14–17 November 2019, Québec, Canada.
 + **Gorin, S.** (2019, September). *Is memory slave to the rhythm? Focus on the role of timing and temporal factors in verbal short-term memory*. Oral presentation at the 21<sup>st</sup> Meeting of the European Society for Cognitive Psychology, 26 September 2019, Tenerife, Spain. [<i class="fas fa-file-alt"></i>](https://osf.io/a8cym)
