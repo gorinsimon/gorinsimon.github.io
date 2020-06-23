@@ -25,6 +25,8 @@ classes: wide
 ### Accepted
 + **Gorin, S.** (2020, in press). The influence of rhythm on short-term memory for serial order. *Quarterly Journal of Experimental Psychology*.
 
-### Submitted
 + Barrouillet, P., **Gorin, S.**, & Camos V. (2020, in revision). Simple spans underestimate verbal working memory capacity. <br/>
 \[*Contribution: formal analysis, investigation, methodology, project administration, software, validation, visualization, writing (original draft)*\]
+
+### Conference proceedings
++ **Gorin, S.**, & Majerus, S. (2015). Common serial order processes in musical and verbal short-term memory: Evidence from novel serial order probe recognition paradigm, In J. Ginsborg, A. Lamont, M. Phillips, & S. Bramley (Eds.), *Proceedings of the Ninth TriennialConference of the European Society for the Cognitive Sciences of Music*. Manchester, United Kingdom.
