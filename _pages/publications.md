@@ -25,7 +25,7 @@ classes: wide
 ### Accepted
 + **Gorin, S.** (2020, in press). The influence of rhythm on short-term memory for serial order. *Quarterly Journal of Experimental Psychology*.
 
-+ Barrouillet, P., **Gorin, S.**, & Camos V. (2020, in revision). Simple spans underestimate verbal working memory capacity. <br/>
++ Barrouillet, P., **Gorin, S.**, & Camos V. (2020, in press). Simple spans underestimate verbal working memory capacity. <br/>
 \[*Contribution: formal analysis, investigation, methodology, project administration, software, validation, visualization, writing (original draft)*\]
 
 ### Conference proceedings
