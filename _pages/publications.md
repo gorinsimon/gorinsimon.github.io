@@ -30,3 +30,6 @@ classes: wide
 
 ### Conference proceedings
 + **Gorin, S.**, & Majerus, S. (2015). Common serial order processes in musical and verbal short-term memory: Evidence from novel serial order probe recognition paradigm, In J. Ginsborg, A. Lamont, M. Phillips, & S. Bramley (Eds.), *Proceedings of the Ninth TriennialConference of the European Society for the Cognitive Sciences of Music*. Manchester, United Kingdom.
+
+### Pre-print
++ Mihaylova, M., **Gorin, S.**, Reber, T. P., & Rothen, N. (2020, August 13). A Meta-Analysis on mobile assisted language learning applications reveals moderate learning benefit and significant publication bias. [https://doi.org/10.31219/osf.io/ux93y](https://doi.org/10.31219/osf.io/ux93y) <i class="ai ai-open-access"><br/>\[*Contribution: methodology, software, data curation, validation*\]

@@ -110,8 +110,7 @@ author:
   name             : "Simon Gorin"
   avatar           : "/assets/images/Gorin_bw.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Postdoctoral Researcher in Psychological Science"
-  location1         : "University of Geneva"
-  location2         : "Swiss Distance Learning Institute"
+  location1         : "Swiss Distance University Institute"
   email            :
   links:
     - label: "Email"
