@@ -25,8 +25,12 @@ classes: wide
 
 ### Accepted
 
-+ Barrouillet, P., **Gorin, S.**, & Camos V. (2020, in press). Simple spans underestimate verbal working memory capacity.*Journal of Experimental Psychology: General* <br/>
++ Barrouillet, P., **Gorin, S.**, & Camos V. (2020, in press). Simple spans underestimate verbal working memory capacity. *Journal of Experimental Psychology: General* <br/>
 \[*Contribution: formal analysis, investigation, methodology, project administration, software, validation, visualization, writing (original draft)*\]
+
+### Registered reports
+
++ Elliott, E., Bell, R., **Gorin, S.**, Robinson, N., & Marsh, J. (2020). Stage 1 Registered Report: Can the irrelevant sound effect be studied online? A comparison between web- and laboratory-based experimentation. *Journal of Cognitive Psychology*. \[*Contribution: data curation, methodology, software, writing - original draft (methods)*\]
 
 ### Conference proceedings
 + **Gorin, S.**, & Majerus, S. (2015). Common serial order processes in musical and verbal short-term memory: Evidence from novel serial order probe recognition paradigm, In J. Ginsborg, A. Lamont, M. Phillips, & S. Bramley (Eds.), *Proceedings of the Ninth TriennialConference of the European Society for the Cognitive Sciences of Music*. Manchester, United Kingdom.
