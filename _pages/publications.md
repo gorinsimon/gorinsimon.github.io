@@ -17,7 +17,7 @@ classes: wide
 
 ### In press
 
-+ Kowialiewski, B., **Gorin, S.**, & Majerus, S. (2021). Semantic knowledge constrains the processing of serial order information in working memory. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. [https://doi.org/10.1037/xlm0001031](https://doi.org/10.1037/xlm0001031) [<i class="fas fa-file-alt"></i>](https://psyarxiv.com/bk34p/) [<i class="fas fa-database"></i>](https://osf.io/a4d29/) [<i class="fas fa-cog"></i>](https://osf.io/a4d29/) [<i class="fas fa-file-code"></i>](https://osf.io/a4d29/)
++ Kowialiewski, B., **Gorin, S.**, & Majerus, S. (2021). Semantic knowledge constrains the processing of serial order information in working memory. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. [https://doi.org/10.1037/xlm0001031](https://doi.org/10.1037/xlm0001031) [<i class="fas fa-file-alt"></i>](https://psyarxiv.com/bk34p/) [<i class="fas fa-database"></i>](https://osf.io/a4d29/) [<i class="fas fa-cog"></i>](https://osf.io/a4d29/) [<i class="fas fa-file-code"></i>](https://osf.io/a4d29/) <br/>
 \[*Contribution:  conceptualization, methodology, software, validation, writing - original draft, writing - review & editing*\]
 
 ### Published
