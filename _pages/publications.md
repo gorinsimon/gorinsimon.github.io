@@ -15,6 +15,11 @@ classes: wide
 
 ## Peer-reviewed manuscripts
 
+### In press
+
++ Kowialiewski, B., **Gorin, S.**, & Majerus, S. (2021). Semantic knowledge constrains the processing of serial order information in working memory. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. [https://doi.org/10.1037/xlm0001031](https://doi.org/10.1037/xlm0001031) [<i class="fas fa-file-alt"></i>](https://psyarxiv.com/bk34p/) [<i class="fas fa-database"></i>](https://osf.io/a4d29/) [<i class="fas fa-cog"></i>](https://osf.io/a4d29/) [<i class="fas fa-file-code"></i>](https://osf.io/a4d29/)
+\[*Contribution:  conceptualization, methodology, software, validation, writing - original draft, writing - review & editing*\]
+
 ### Published
 
 + Barrouillet, P., **Gorin, S.**, & Camos V. (2020). Simple spans underestimate verbal working memory capacity. *Journal of Experimental Psychology: General*. [https://doi.org/10.1037/xge0000957](https://doi.org/10.1037/xge0000957) [<i class="fas fa-file-alt"></i>](https://archive-ouverte.unige.ch/unige:141203) [<i class="fas fa-database"></i>](https://osf.io/7k52n) [<i class="fas fa-cog"></i>](https://osf.io/7k52n) [<i class="fas fa-file-code"></i>](https://osf.io/7k52n) <br/>
