@@ -4,7 +4,7 @@ title: Publications
 classes: wide
 ---
 
-> ### Icon
+> ### Legend
 > <i class="fas fa-database"></i> Data openly accessible (click the icon to acces the repository) <br/>
 > <i class="fas fa-file-alt"></i> Author post-print version openly accessible for papers not in open access (click the icon to start the download). <br/>
 > <i class="fas fa-cog"></i> Material openly accessible (click the icon to access the repository). <br/>
