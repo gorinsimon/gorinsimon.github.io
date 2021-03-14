@@ -4,14 +4,14 @@ title: Publications
 classes: wide
 ---
 
-> ### Icon Legend
+> ### Icon
 > <i class="fas fa-database"></i> Data openly accessible (click the icon to acces the repository) <br/>
 > <i class="fas fa-file-alt"></i> Author post-print version openly accessible for papers not in open access (click the icon to start the download). <br/>
 > <i class="fas fa-cog"></i> Material openly accessible (click the icon to access the repository). <br/>
 > <i class="fas fa-file-code"></i> Statistical output files and/or code for processing the data are openly accessible (click the icon to access the repository).
 >
 > ### Contribution
-> For the works I am not listed as the first author, my contribution is detailed following the [CRediT Taxonomy](https://casrai.org/credit/)
+> For works for which I am not listed as first author, my contribution is detailed following the [CRediT Taxonomy](https://casrai.org/credit/)
 
 ## Peer-reviewed manuscripts
 
@@ -36,6 +36,7 @@ classes: wide
 + Elliott, E., Bell, R., **Gorin, S.**, Robinson, N., & Marsh, J. (2020). Stage 1 Registered Report: Can the irrelevant sound effect be studied online? A comparison between web- and laboratory-based experimentation. *Journal of Cognitive Psychology*. \[*Contribution: data curation, methodology, software, writing - original draft (methods)*\]
 
 ### Conference proceedings
+
 + **Gorin, S.**, & Majerus, S. (2015). Common serial order processes in musical and verbal short-term memory: Evidence from novel serial order probe recognition paradigm, In J. Ginsborg, A. Lamont, M. Phillips, & S. Bramley (Eds.), *Proceedings of the Ninth TriennialConference of the European Society for the Cognitive Sciences of Music*. Manchester, United Kingdom.
 
 ### Pre-print
